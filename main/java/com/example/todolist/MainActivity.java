@@ -1,4 +1,7 @@
+//from BradTeachesCode tutorial
+
 package com.example.todolist;
+
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
