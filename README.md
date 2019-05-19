@@ -1,2 +1,2 @@
 # ToDoList
-Repository for ToDoList App
+Repository for ToDoList App following BradTeachesCode tutorial.
